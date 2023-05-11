@@ -10,8 +10,6 @@
 
 ### 📃 Languages
 
-<details>
-<summary>View cheatsheets</summary>
 
 #### Command line interface
 
@@ -21,12 +19,10 @@
 
 - [Python](languages/python.md)
 
-</details>
+
 
 ### 📦 Backend
 
-<details>
-<summary>View cheatsheets</summary>
 
 #### Python
 
@@ -34,8 +30,7 @@
 
 ### 🌐 Frontend
 
-<details>
-<summary>View cheatsheets</summary>
+
 
 #### Basics
 
@@ -48,8 +43,6 @@
 
 ### 🗃️ Databases
 
-<details>
-<summary>View cheatsheets</summary>
 
 #### SQL
 
@@ -58,12 +51,10 @@
 #### NoSQL
 
 - [Redis](databases/redis.sh)
-  </details>
+
 
 ### 🔧 Tools
 
-<details>
-<summary>View cheatsheets</summary>
 
 #### Development
 
